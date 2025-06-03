@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: sample-page
-        image: marobert42/inception-of-things:v1
+        image: marobert42/inception-of-things:v2
         ports:
         - containerPort: 80
 
